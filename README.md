@@ -1,6 +1,6 @@
 <div align="center">
 
-# yo, i'm nikita ⋆˙⟡
+# yo, i'm Niel ⋆˙⟡
 
 > **13 y.o. vibe coder** • breaking things until they compile • living in internet
 
@@ -11,7 +11,7 @@ val me = Developer(
     age = 13,
     mainLanguage = "Any",
     status = "coding voice bridges & encrypted stuff instead of doing homework",
-    coffeeLevel = 100
+    motivationLevel = 100
 )
 ```
 
@@ -19,10 +19,10 @@ val me = Developer(
 
 ### 🎧 current vibes & projects
 
-- 🔐 **Penik** — cross-platform e2e encrypted messenger (велосипед, зато свой)
-- 🎙️ **VoicePlus** — client-side bridge for Simple Voice Chat on Plasmo Voice servers
-- ⚡ **proxy-turn-vk-android** & **Exslav** — network experiments & Vless client
-
+- 🔐 **Penik** cross-platform e2e encrypted messenger (велосипед, зато свой)
+- 🎙️ **VoicePlus** client-side bridge for Simple Voice Chat on Plasmo Voice servers
+- ⚡ **proxy-turn-vk-android** fork vpn on vk calls
+- ⚡ **Exslav** Vless client
 <br/>
 
 ```text
@@ -37,6 +37,6 @@ val me = Developer(
 <img src="https://img.shields.io/badge/Vibe-100%25-black?style=for-the-badge" alt="Vibe" />
 
 ---
-<sub>*не трогай прод, оно работает на честном слове* ☕💤</sub>
+<sub>*не трогай прод, оно работает на честном слове* </sub>
 
 </div>
