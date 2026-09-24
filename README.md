@@ -33,8 +33,11 @@ val me = Developer(
 <br/>
 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-<img src="https://img.shields.io/badge/Vibe-100%25-black?style=for-the-badge" alt="Vibe" />
+<img src="https://img.shields.io/badge/VibeCode-100%25-black?style=for-the-badge" alt="Vibe" />
 
 ---
 <sub>*не трогай прод, оно работает на честном слове* </sub>
