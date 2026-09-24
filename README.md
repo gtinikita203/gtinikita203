@@ -6,13 +6,11 @@
 
 <br/>
 
-```kotlin
-val me = Developer(
-    age = 13,
-    mainLanguage = "Any",
-    status = "coding encrypted stuff instead of doing homework",
+```text
+    age = 13
+    mainLanguage = "Any"
+    status = "coding encrypted stuff instead of doing homework"
     motivationLevel = 100
-
 ```
 
 <br/>
