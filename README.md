@@ -9,7 +9,7 @@
 ```kotlin
     age = 13
     mainLanguage = "Any"
-                                        status = "coding encrypted stuff instead of doing homework"
+                                         status = "coding encrypted stuff instead of doing homework"
     motivationLevel = 100
 ```
 
@@ -25,7 +25,7 @@
 
 ```text
 > git commit -m "works on pure vibes and prayers"
-> git push --force
+> git push
 ```
 
 <br/>
