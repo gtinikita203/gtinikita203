@@ -6,7 +6,7 @@
 
 <br/>
 
-```text
+```go
     age = 13
     mainLanguage = "Any"
                                         status = "coding encrypted stuff instead of doing homework"
