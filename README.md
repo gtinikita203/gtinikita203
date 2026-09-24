@@ -9,7 +9,7 @@
 ```text
     age = 13
     mainLanguage = "Any"
-    status = "coding encrypted stuff instead of doing homework"
+                status = "coding encrypted stuff instead of doing homework"
     motivationLevel = 100
 ```
 
