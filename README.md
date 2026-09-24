@@ -8,7 +8,7 @@
 
 ```kotlin
     age = 13
-    mainLanguage = "Any"
+    mainLanguage = "None"
     status = "coding encrypted stuff instead of doing homework"
     motivationLevel = 100
 ```
