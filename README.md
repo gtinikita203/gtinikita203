@@ -10,7 +10,7 @@
 val me = Developer(
     age = 13,
     mainLanguage = "Any",
-    status = "coding voice bridges & encrypted stuff instead of doing homework",
+                status = "coding voice bridges & encrypted stuff instead of doing homework",
     motivationLevel = 100
 
 ```
