@@ -9,7 +9,7 @@
 ```kotlin
     age = 13
     mainLanguage = "Any"
-                                         status = "coding encrypted stuff instead of doing homework"
+    status = "coding encrypted stuff instead of doing homework"
     motivationLevel = 100
 ```
 
@@ -17,10 +17,11 @@
 
 ### 🎧 current vibes & projects
 
-- 🔐 **Penik** cross-platform e2e encrypted messenger (велосипед, зато свой)
+- 💬 **Penik** cross-platform e2e encrypted messenger (велосипед, зато свой)
 - 🎙️ **VoicePlus** client-side bridge for Simple Voice Chat on Plasmo Voice servers
-- ⚡ **proxy-turn-vk-android** fork vpn on vk calls
+- 🔐 **proxy-turn-vk-android** fork vpn on vk calls
 - ⚡ **Exslav** Vless client
+
 <br/>
 
 ```text
@@ -37,7 +38,15 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
 <img src="https://img.shields.io/badge/VibeCode-100%25-black?style=for-the-badge" alt="Vibe" />
 
+<br/>
+
+### 📈 my coding graph
+
+<img src="https://fabianocouto-activity-graph.vercel.app/graph?username=gtinikita203&theme=tokyo-night&hide_border=true&days=30&area=true&bg_color=00000000" alt="activity" />
+
+<br/>
+
 ---
-<sub>*не трогай прод, оно работает на честном слове* </sub>
+<sub>*не трогай прод, оно работает на честном слове*</sub>
 
 </div>
