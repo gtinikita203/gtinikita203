@@ -17,9 +17,9 @@
 
 ### 🎧 current vibes & projects
 
-- 💬 **Penik** cross-platform e2e encrypted messenger (велосипед, зато свой)
+- 💬 **PenikXMPP** Messenger (форк Converstions, но зато какая скорость!)
 - 🎙️ **VoicePlus** client-side bridge for Simple Voice Chat on Plasmo Voice servers
-- 🔐 **proxy-turn-vk-android** fork vpn on vk calls
+- ◀️ **VaneProxy** Reverse Proxy, as Caddy+Layer4
 - ⚡ **Exslav** Vless client
 
 <br/>
